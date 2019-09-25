@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Long Jiao (ljiao@gmu.edu) received B.Sc. degree in Information Security from Xidian University (XDU), Xian, China,
-in 2016. He has been with George Mason University, Fairfax,
-VA, USA, since 2016, where he is currently a Ph.D. student.
-His current fields of interest include 5G Physical Layer Security, mmWave communication, mmWave HetNets and Deep
-Learning.
+Jie Tang achieved Ph.D. degree from Communication and information system at University of Electronic Science and Technology of China, P.R.China. He is also a visiting scholar in George Mason University, Fairfax, U.S.A. His current main interests lie in wireless communication security and cyber security. For the publication information of Jie Tang, Please refer to Link: https://scholar.google.com.hk/citations?hl=zh-CN&user=nOQz1NYAAAAJ
